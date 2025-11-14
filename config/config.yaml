@@ -79,23 +79,34 @@ weight:
 platforms:
   - id: "toutiao"
     name: "今日头条"
+    limit: 10
   - id: "baidu"
     name: "百度热搜"
+    limit: 10
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
+    limit: 10
   - id: "thepaper"
     name: "澎湃新闻"
+    limit: 10
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
+    limit: 10
   - id: "cls-hot"
     name: "财联社热门"
+    limit: 10
   - id: "ifeng"
     name: "凤凰网"
+    limit: 10
   - id: "tieba"
     name: "贴吧"
+    limit: 10
   - id: "weibo"
     name: "微博"
+    limit: 10
   - id: "douyin"
     name: "抖音"
+    limit: 10
   - id: "zhihu"
     name: "知乎"
+    limit: 10
